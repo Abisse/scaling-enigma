@@ -1,2 +1,2 @@
 # scaling-enigma
-my memory card
+Проект алгоритмика ничего интересного/project from Algoritmika nothing intersting
